@@ -1,4 +1,4 @@
-# Nexus Matching Core
+# OrderBook Engine
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
